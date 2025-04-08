@@ -10,8 +10,11 @@ By CL0WNSEC ;)
 
 INSTALLATION:
 git clone https://github.com/mrclownguy/HCLOAK.git
+
 cd HCLOAK
+
 chmod +x HCloakv2.sh
+
 ./HCloakv2.sh
 
 Then run the installer menu in the tool.
