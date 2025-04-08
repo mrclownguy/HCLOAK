@@ -1,6 +1,7 @@
-HCloak CTL is a simple bash tool that helps bypass strict firewall restrictions with macchanger, TOR and VPN with bridge support for effective obfiscation as well as install menu.
+HCloak CTL is a simple bash tool that helps bypass strict firewall restrictions with macchanger, TOR and VPN with bridge support for effective obfuscation as well as install menu.
 
 Useful in schools and offices where access is limited and monitored. 
+Good for Cybersecurity applications or just computing in privacy.
 
 By CL0WNSEC ;)
 
@@ -11,6 +12,7 @@ By CL0WNSEC ;)
 
 
 INSTALLATION:
+
 git clone https://github.com/mrclownguy/HCLOAK.git
 
 cd HCLOAK
